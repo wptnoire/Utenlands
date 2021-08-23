@@ -41,8 +41,6 @@ function mouseOver() {
     } 
   }
 
-  document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale='+(1/window.devicePixelRatio));
-
 /*
   // Icon2 hover
 var icon2 = document.getElementById("icon2");
